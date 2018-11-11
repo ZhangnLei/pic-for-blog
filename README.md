@@ -1,7 +1,6 @@
 pic-for-blog
 
 博客地址：
-[www.zhangnlei.cn](www.zhangnlei.cn)
+自己的服务器：[www.zhangnlei.cn](http://www.zhangnlei.cn)
 
-
-[https://blog.csdn.net/mr_zhang____](https://blog.csdn.net/mr_zhang____)
+CSDN：[https://blog.csdn.net/mr_zhang____](https://blog.csdn.net/mr_zhang____)
